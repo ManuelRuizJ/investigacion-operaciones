@@ -1,0 +1,3252 @@
+[
+ {
+  "id": "MK1",
+  "tema": "Markov",
+  "desc": "Ej. 5 Tiendas de abarrotes: π(1)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π1(1)",
+  "esperado": "0.41",
+  "obtenido": "0.41",
+  "estado": "ok"
+ },
+ {
+  "id": "MK1",
+  "tema": "Markov",
+  "desc": "Ej. 5 Tiendas de abarrotes: π(1)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π2(1)",
+  "esperado": "0.31",
+  "obtenido": "0.31",
+  "estado": "ok"
+ },
+ {
+  "id": "MK1",
+  "tema": "Markov",
+  "desc": "Ej. 5 Tiendas de abarrotes: π(1)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π3(1)",
+  "esperado": "0.28",
+  "obtenido": "0.28",
+  "estado": "ok"
+ },
+ {
+  "id": "MK2",
+  "tema": "Markov",
+  "desc": "Ej. 6 Fresadora: π(1), π(2) y estado estable",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(1) funciona",
+  "esperado": "0.8",
+  "obtenido": "0.8",
+  "estado": "ok"
+ },
+ {
+  "id": "MK2",
+  "tema": "Markov",
+  "desc": "Ej. 6 Fresadora: π(1), π(2) y estado estable",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(2) funciona",
+  "esperado": "0.66",
+  "obtenido": "0.66",
+  "estado": "ok"
+ },
+ {
+  "id": "MK2",
+  "tema": "Markov",
+  "desc": "Ej. 6 Fresadora: π(1), π(2) y estado estable",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(2) no funciona",
+  "esperado": "0.34",
+  "obtenido": "0.34",
+  "estado": "ok"
+ },
+ {
+  "id": "MK2",
+  "tema": "Markov",
+  "desc": "Ej. 6 Fresadora: π(1), π(2) y estado estable",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π1 estable",
+  "esperado": "0.33333333",
+  "obtenido": "0.333333",
+  "estado": "ok"
+ },
+ {
+  "id": "MK2",
+  "tema": "Markov",
+  "desc": "Ej. 6 Fresadora: π(1), π(2) y estado estable",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π2 estable",
+  "esperado": "0.66666667",
+  "obtenido": "0.666667",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(1) buena",
+  "esperado": "0.30",
+  "obtenido": "0.3",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(1) regular",
+  "esperado": "0.60",
+  "obtenido": "0.6",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(8) buena",
+  "esperado": "0.101753",
+  "obtenido": "0.101753",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(8) regular",
+  "esperado": "0.525514",
+  "obtenido": "0.525514",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(8) mala",
+  "esperado": "0.372733",
+  "obtenido": "0.372733",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(16) buena",
+  "esperado": "0.101659",
+  "obtenido": "0.101695",
+  "estado": "aprox"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(16) regular",
+  "esperado": "0.52454",
+  "obtenido": "0.525424",
+  "estado": "aprox"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π(16) mala",
+  "esperado": "0.372881",
+  "obtenido": "0.372881",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π1 estable",
+  "esperado": "0.1017",
+  "obtenido": "0.101695",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π2 estable",
+  "esperado": "0.5254",
+  "obtenido": "0.525424",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "π3 estable",
+  "esperado": "0.3729",
+  "obtenido": "0.372881",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "μ11 = 1/π1",
+  "esperado": "9.83",
+  "obtenido": "9.83333",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "μ22",
+  "esperado": "1.9",
+  "obtenido": "1.90323",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "μ33",
+  "esperado": "2.68",
+  "obtenido": "2.68182",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "Costo esperado fertilizante",
+  "esperado": "135.51",
+  "obtenido": "135.508",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "Primer paso regular→buena μ21",
+  "esperado": "12.50",
+  "obtenido": "12.5",
+  "estado": "ok"
+ },
+ {
+  "id": "MK3",
+  "tema": "Markov",
+  "desc": "Ej. 7 Jardinero: π(n), estado estable, recurrencia, costo y primer paso",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "Primer paso mala→buena μ31",
+  "esperado": "13.34",
+  "obtenido": "13.3333",
+  "estado": "aprox"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "F11",
+  "esperado": "1.38",
+  "obtenido": "1.37931",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "F12",
+  "esperado": "0.34",
+  "obtenido": "0.344828",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "F21",
+  "esperado": "0.52",
+  "obtenido": "0.517241",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "F22",
+  "esperado": "1.38",
+  "obtenido": "1.37931",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "FA <1 mes → pagada",
+  "esperado": "0.97",
+  "obtenido": "0.965517",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "FA <1 mes → incobrable",
+  "esperado": "0.03",
+  "obtenido": "0.0344828",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "FA 1-3 → pagada",
+  "esperado": "0.86",
+  "obtenido": "0.862069",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "FA 1-3 → incobrable",
+  "esperado": "0.14",
+  "obtenido": "0.137931",
+  "estado": "ok"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "$ que se pagan",
+  "esperado": "6240",
+  "obtenido": "6,241.38",
+  "estado": "aprox"
+ },
+ {
+  "id": "MK4",
+  "tema": "Markov",
+  "desc": "Ej. 8 Cuentas por cobrar (absorbente)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 3 Cadenas de Markov — academia.utp.ac.pa/sites/default/files/docente/541/03_cadenas_de_markov.pdf",
+  "dato": "$ incobrables",
+  "esperado": "760",
+  "obtenido": "758.621",
+  "estado": "aprox"
+ },
+ {
+  "id": "MK5",
+  "tema": "Markov",
+  "desc": "Tema 3 #1: compradores (100 de 1000) en 1 y 2 meses",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "P²11",
+  "esperado": "0.7",
+  "obtenido": "0.7",
+  "estado": "ok"
+ },
+ {
+  "id": "MK5",
+  "tema": "Markov",
+  "desc": "Tema 3 #1: compradores (100 de 1000) en 1 y 2 meses",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "P²21",
+  "esperado": "0.45",
+  "obtenido": "0.45",
+  "estado": "ok"
+ },
+ {
+  "id": "MK5",
+  "tema": "Markov",
+  "desc": "Tema 3 #1: compradores (100 de 1000) en 1 y 2 meses",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Compran mes 1 (de 1000)",
+  "esperado": "350",
+  "obtenido": "350",
+  "estado": "ok"
+ },
+ {
+  "id": "MK5",
+  "tema": "Markov",
+  "desc": "Tema 3 #1: compradores (100 de 1000) en 1 y 2 meses",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Compran mes 2 (de 1000)",
+  "esperado": "475",
+  "obtenido": "475",
+  "estado": "ok"
+ },
+ {
+  "id": "MK6",
+  "tema": "Markov",
+  "desc": "Tema 3 #2: fumadores en 10,000 habitantes",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "No fuman",
+  "esperado": "5025",
+  "obtenido": "5,025",
+  "estado": "ok"
+ },
+ {
+  "id": "MK6",
+  "tema": "Markov",
+  "desc": "Tema 3 #2: fumadores en 10,000 habitantes",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "≤1 paquete",
+  "esperado": "2500",
+  "obtenido": "2,500",
+  "estado": "ok"
+ },
+ {
+  "id": "MK6",
+  "tema": "Markov",
+  "desc": "Tema 3 #2: fumadores en 10,000 habitantes",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": ">1 paquete",
+  "esperado": "2475",
+  "obtenido": "2,475",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Bradley año siguiente",
+  "esperado": "0.303",
+  "obtenido": "0.3025",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Career año siguiente",
+  "esperado": "0.420",
+  "obtenido": "0.42",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "International año siguiente",
+  "esperado": "0.278",
+  "obtenido": "0.2775",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Bradley equilibrio",
+  "esperado": "0.158",
+  "obtenido": "0.157895",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Career equilibrio",
+  "esperado": "0.579",
+  "obtenido": "0.578947",
+  "estado": "ok"
+ },
+ {
+  "id": "MK7",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-1 Bradley School",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "International equilibrio",
+  "esperado": "0.263",
+  "obtenido": "0.263158",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F11",
+  "esperado": "1.176",
+  "obtenido": "1.17647",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F12",
+  "esperado": "0.147",
+  "obtenido": "0.147059",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F21",
+  "esperado": "0.588",
+  "obtenido": "0.588235",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F22",
+  "esperado": "1.324",
+  "obtenido": "1.32353",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "FA11",
+  "esperado": "0.971",
+  "obtenido": "0.970588",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "FA12",
+  "esperado": "0.029",
+  "obtenido": "0.0294118",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "FA21",
+  "esperado": "0.735",
+  "obtenido": "0.735294",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "FA22",
+  "esperado": "0.265",
+  "obtenido": "0.264706",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Estudiantes exentos",
+  "esperado": "231",
+  "obtenido": "230.882",
+  "estado": "ok"
+ },
+ {
+  "id": "MK8",
+  "tema": "Markov",
+  "desc": "Problema resuelto 15-2 Central State University (absorbente)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Toman el curso",
+  "esperado": "19",
+  "obtenido": "19.1176",
+  "estado": "ok"
+ },
+ {
+  "id": "Q1",
+  "tema": "Colas",
+  "desc": "Ej. 7.4 Transmisión de mensajes (M/M/1, λ=5/min, servicio 10 s)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "ρ",
+  "esperado": "0.83",
+  "obtenido": "0.833333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q1",
+  "tema": "Colas",
+  "desc": "Ej. 7.4 Transmisión de mensajes (M/M/1, λ=5/min, servicio 10 s)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "L",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q1",
+  "tema": "Colas",
+  "desc": "Ej. 7.4 Transmisión de mensajes (M/M/1, λ=5/min, servicio 10 s)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "Lq",
+  "esperado": "4.17",
+  "obtenido": "4.16667",
+  "estado": "ok"
+ },
+ {
+  "id": "Q1",
+  "tema": "Colas",
+  "desc": "Ej. 7.4 Transmisión de mensajes (M/M/1, λ=5/min, servicio 10 s)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "Wq (min)",
+  "esperado": "0.83",
+  "obtenido": "0.833333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q1",
+  "tema": "Colas",
+  "desc": "Ej. 7.4 Transmisión de mensajes (M/M/1, λ=5/min, servicio 10 s)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "W (min)",
+  "esperado": "1",
+  "obtenido": "1",
+  "estado": "ok"
+ },
+ {
+  "id": "Q2",
+  "tema": "Colas",
+  "desc": "Ej. 7.5 Mensajes con 10% más llegadas (λ=5.5/min)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "ρ",
+  "esperado": "0.92",
+  "obtenido": "0.916667",
+  "estado": "ok"
+ },
+ {
+  "id": "Q2",
+  "tema": "Colas",
+  "desc": "Ej. 7.5 Mensajes con 10% más llegadas (λ=5.5/min)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "L",
+  "esperado": "11",
+  "obtenido": "11",
+  "estado": "ok"
+ },
+ {
+  "id": "Q2",
+  "tema": "Colas",
+  "desc": "Ej. 7.5 Mensajes con 10% más llegadas (λ=5.5/min)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "Lq",
+  "esperado": "10.08",
+  "obtenido": "10.0833",
+  "estado": "ok"
+ },
+ {
+  "id": "Q2",
+  "tema": "Colas",
+  "desc": "Ej. 7.5 Mensajes con 10% más llegadas (λ=5.5/min)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "Wq (s)",
+  "esperado": "110",
+  "obtenido": "110",
+  "estado": "ok"
+ },
+ {
+  "id": "Q2",
+  "tema": "Colas",
+  "desc": "Ej. 7.5 Mensajes con 10% más llegadas (λ=5.5/min)",
+  "fuente": "Universidad de Alcalá, Sistemas de colas (Baron cap. 7) — hilera.web.uah.es/estadistica/teoria/t5/t52.pdf",
+  "dato": "W (min)",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "1",
+  "obtenido": "1",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "1.33",
+  "obtenido": "1.33333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "40",
+  "obtenido": "40",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "ρ",
+  "esperado": "0.67",
+  "obtenido": "0.666667",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.33",
+  "obtenido": "0.333333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q3",
+  "tema": "Colas",
+  "desc": "Taller de silenciadores Arnold (M/M/1) con costos",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo diario (8 h) = 8·(Cw·Lq + Cs)",
+  "esperado": "653.33",
+  "obtenido": "653.333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "1",
+  "obtenido": "1",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "0.5",
+  "obtenido": "0.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "15",
+  "obtenido": "15",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "ρ",
+  "esperado": "0.5",
+  "obtenido": "0.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.5",
+  "obtenido": "0.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q4",
+  "tema": "Colas",
+  "desc": "Arnold con el mecánico rápido J. Smith (μ=4, $20/h)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo diario",
+  "esperado": "360",
+  "obtenido": "360",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.5",
+  "obtenido": "0.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (min)",
+  "esperado": "22.5",
+  "obtenido": "22.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.083",
+  "obtenido": "0.0833333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (h)",
+  "esperado": "0.0415",
+  "obtenido": "0.0416667",
+  "estado": "aprox"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "2.5",
+  "obtenido": "2.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q5",
+  "tema": "Colas",
+  "desc": "Arnold con dos mecánicos (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo diario",
+  "esperado": "273.20",
+  "obtenido": "273.333",
+  "estado": "aprox"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "0.1",
+  "obtenido": "0.1",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "1.33",
+  "obtenido": "1.33333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "4",
+  "obtenido": "4",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "ρ",
+  "esperado": "0.67",
+  "obtenido": "0.666667",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.33",
+  "obtenido": "0.333333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P(n>0)",
+  "esperado": "0.667",
+  "obtenido": "0.666667",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P(n>1)",
+  "esperado": "0.444",
+  "obtenido": "0.444444",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P(n>2)",
+  "esperado": "0.296",
+  "obtenido": "0.296296",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P(n>3)",
+  "esperado": "0.198",
+  "obtenido": "0.197531",
+  "estado": "ok"
+ },
+ {
+  "id": "Q6",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-2 Marty (M/M/1, λ=20, μ=30)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo de espera diario 12 h a $0.10/min",
+  "esperado": "96",
+  "obtenido": "96",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.5",
+  "obtenido": "0.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "0.0375",
+  "obtenido": "0.0375",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.083",
+  "obtenido": "0.0833333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "0.25",
+  "obtenido": "0.25",
+  "estado": "ok"
+ },
+ {
+  "id": "Q7",
+  "tema": "Colas",
+  "desc": "Problema resuelto 13-3 Marty con dos empleados (M/M/2)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "ρ",
+  "esperado": "0.33",
+  "obtenido": "0.333333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q8",
+  "tema": "Colas",
+  "desc": "García-Golding Recycling (M/D/1, λ=8, μ=12)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (h) M/D/1",
+  "esperado": "0.08333",
+  "obtenido": "0.0833333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q8",
+  "tema": "Colas",
+  "desc": "García-Golding Recycling (M/D/1, λ=8, μ=12)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo de espera por viaje ($60/h)",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q9",
+  "tema": "Colas",
+  "desc": "Hartlage's Seafood (M/G/1, λ=0.35, μ=0.5, σ=1.2 min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.30",
+  "obtenido": "0.3",
+  "estado": "ok"
+ },
+ {
+  "id": "Q9",
+  "tema": "Colas",
+  "desc": "Hartlage's Seafood (M/G/1, λ=0.35, μ=0.5, σ=1.2 min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "1.1107",
+  "obtenido": "1.11067",
+  "estado": "ok"
+ },
+ {
+  "id": "Q9",
+  "tema": "Colas",
+  "desc": "Hartlage's Seafood (M/G/1, λ=0.35, μ=0.5, σ=1.2 min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "1.8107",
+  "obtenido": "1.81067",
+  "estado": "ok"
+ },
+ {
+  "id": "Q9",
+  "tema": "Colas",
+  "desc": "Hartlage's Seafood (M/G/1, λ=0.35, μ=0.5, σ=1.2 min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "3.1733",
+  "obtenido": "3.17333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q9",
+  "tema": "Colas",
+  "desc": "Hartlage's Seafood (M/G/1, λ=0.35, μ=0.5, σ=1.2 min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Pw",
+  "esperado": "0.70",
+  "obtenido": "0.7",
+  "estado": "ok"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.564",
+  "obtenido": "0.563952",
+  "estado": "ok"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.2",
+  "obtenido": "0.203474",
+  "estado": "ok"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "0.64",
+  "obtenido": "0.639522",
+  "estado": "ok"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Wq (h)",
+  "esperado": "0.91",
+  "obtenido": "0.933264",
+  "estado": "mal"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "2.91",
+  "obtenido": "2.93326",
+  "estado": "aprox"
+ },
+ {
+  "id": "Q10",
+  "tema": "Colas",
+  "desc": "Departamento de Comercio: 5 impresoras (población finita)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo total por hora",
+  "esperado": "101.80",
+  "obtenido": "101.743",
+  "estado": "aprox"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.4845",
+  "obtenido": "0.484515",
+  "estado": "ok"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.3297",
+  "obtenido": "0.329664",
+  "estado": "ok"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "0.8451",
+  "obtenido": "0.845149",
+  "estado": "ok"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Wq (h)",
+  "esperado": "1.279",
+  "obtenido": "1.27904",
+  "estado": "ok"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "W (h)",
+  "esperado": "3.279",
+  "obtenido": "3.27904",
+  "estado": "ok"
+ },
+ {
+  "id": "Q11",
+  "tema": "Colas",
+  "desc": "Kolkmeyer: 6 máquinas, 1 mecánico",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Pw",
+  "esperado": "0.5155",
+  "obtenido": "0.515485",
+  "estado": "ok"
+ },
+ {
+  "id": "Q12",
+  "tema": "Colas",
+  "desc": "Kolkmeyer con 2 mecánicos",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.0227",
+  "obtenido": "0.0226558",
+  "estado": "ok"
+ },
+ {
+  "id": "Q12",
+  "tema": "Colas",
+  "desc": "Kolkmeyer con 2 mecánicos",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Wq (h)",
+  "esperado": "0.0834",
+  "obtenido": "0.0833862",
+  "estado": "ok"
+ },
+ {
+  "id": "Q12",
+  "tema": "Colas",
+  "desc": "Kolkmeyer con 2 mecánicos",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Pw",
+  "esperado": "0.1036",
+  "obtenido": "0.103628",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.25",
+  "obtenido": "0.25",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "2.25",
+  "obtenido": "2.25",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "W (min)",
+  "esperado": "4",
+  "obtenido": "4",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Pw",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "Q13",
+  "tema": "Colas",
+  "desc": "Burger Dome, un canal (λ=0.75, μ=1 por min), costos Cw=$10, Cs=$7",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Costo/h = Cw·L + Cs",
+  "esperado": "37.00",
+  "obtenido": "37",
+  "estado": "ok"
+ },
+ {
+  "id": "Q14",
+  "tema": "Colas",
+  "desc": "Burger Dome con servicio mejorado (μ=1.25/min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.400",
+  "obtenido": "0.4",
+  "estado": "ok"
+ },
+ {
+  "id": "Q14",
+  "tema": "Colas",
+  "desc": "Burger Dome con servicio mejorado (μ=1.25/min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.900",
+  "obtenido": "0.9",
+  "estado": "ok"
+ },
+ {
+  "id": "Q14",
+  "tema": "Colas",
+  "desc": "Burger Dome con servicio mejorado (μ=1.25/min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "1.500",
+  "obtenido": "1.5",
+  "estado": "ok"
+ },
+ {
+  "id": "Q14",
+  "tema": "Colas",
+  "desc": "Burger Dome con servicio mejorado (μ=1.25/min)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P(7 o más) = P(N>6)",
+  "esperado": "0.028",
+  "obtenido": "0.0279936",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.4545",
+  "obtenido": "0.454545",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Lq",
+  "esperado": "0.1227",
+  "obtenido": "0.122727",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L",
+  "esperado": "0.8727",
+  "obtenido": "0.872727",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Wq (min)",
+  "esperado": "0.1636",
+  "obtenido": "0.163636",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Pw",
+  "esperado": "0.2045",
+  "obtenido": "0.204545",
+  "estado": "ok"
+ },
+ {
+  "id": "Q15",
+  "tema": "Colas",
+  "desc": "Burger Dome con dos canales (M/M/2)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Costo/h = Cw·L + Cs·s",
+  "esperado": "22.73",
+  "obtenido": "22.7273",
+  "estado": "ok"
+ },
+ {
+  "id": "Q16",
+  "tema": "Colas",
+  "desc": "Microdata: 3 líneas sin espera (M/M/3/3)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P3 (llamadas bloqueadas)",
+  "esperado": "0.2105",
+  "obtenido": "0.210526",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P4 (bloqueadas)",
+  "esperado": "0.0952",
+  "obtenido": "0.0952381",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "L (líneas ocupadas)",
+  "esperado": "1.8095",
+  "obtenido": "1.80952",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P0",
+  "esperado": "0.1429",
+  "obtenido": "0.142857",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P1",
+  "esperado": "0.2857",
+  "obtenido": "0.285714",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P2",
+  "esperado": "0.2857",
+  "obtenido": "0.285714",
+  "estado": "ok"
+ },
+ {
+  "id": "Q17",
+  "tema": "Colas",
+  "desc": "Microdata con 4 líneas (M/M/4/4)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "P3",
+  "esperado": "0.1905",
+  "obtenido": "0.190476",
+  "estado": "ok"
+ },
+ {
+  "id": "Q18",
+  "tema": "Colas",
+  "desc": "Arnold: ¿1 o 2 mecánicos? (costo con Lq)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Óptimo",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "Q18",
+  "tema": "Colas",
+  "desc": "Arnold: ¿1 o 2 mecánicos? (costo con Lq)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo diario s=1",
+  "esperado": "653.33",
+  "obtenido": "653.333",
+  "estado": "ok"
+ },
+ {
+  "id": "Q18",
+  "tema": "Colas",
+  "desc": "Arnold: ¿1 o 2 mecánicos? (costo con Lq)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo diario s=2",
+  "esperado": "273.20",
+  "obtenido": "273.333",
+  "estado": "aprox"
+ },
+ {
+  "id": "Q19",
+  "tema": "Colas",
+  "desc": "Burger Dome: 1 vs 2 canales (costo con L)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Óptimo",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "Q19",
+  "tema": "Colas",
+  "desc": "Burger Dome: 1 vs 2 canales (costo con L)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Costo s=1",
+  "esperado": "37.00",
+  "obtenido": "37",
+  "estado": "ok"
+ },
+ {
+  "id": "Q19",
+  "tema": "Colas",
+  "desc": "Burger Dome: 1 vs 2 canales (costo con L)",
+  "fuente": "Anderson, Sweeney & Williams, Métodos cuantitativos para los negocios 11a ed. (libros/ de tu carpeta)",
+  "dato": "Costo s=2",
+  "esperado": "22.73",
+  "obtenido": "22.7273",
+  "estado": "ok"
+ },
+ {
+  "id": "I1",
+  "tema": "Inventarios",
+  "desc": "Ej. 2 Bebidas Nacionales (EOQ, H = 25% de $8)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Q*",
+  "esperado": "1824",
+  "obtenido": "1,824.28",
+  "estado": "ok"
+ },
+ {
+  "id": "I1",
+  "tema": "Inventarios",
+  "desc": "Ej. 2 Bebidas Nacionales (EOQ, H = 25% de $8)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Costo total (ordenar + mantener)",
+  "esperado": "3648.56",
+  "obtenido": "3,648.56",
+  "estado": "ok"
+ },
+ {
+  "id": "I1",
+  "tema": "Inventarios",
+  "desc": "Ej. 2 Bebidas Nacionales (EOQ, H = 25% de $8)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Punto de reorden",
+  "esperado": "832",
+  "obtenido": "832",
+  "estado": "ok"
+ },
+ {
+  "id": "I1",
+  "tema": "Inventarios",
+  "desc": "Ej. 2 Bebidas Nacionales (EOQ, H = 25% de $8)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Pedidos por año",
+  "esperado": "57",
+  "obtenido": "57.0088",
+  "estado": "ok"
+ },
+ {
+  "id": "I1",
+  "tema": "Inventarios",
+  "desc": "Ej. 2 Bebidas Nacionales (EOQ, H = 25% de $8)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Tiempo entre pedidos (días)",
+  "esperado": "4.39",
+  "obtenido": "4.38529",
+  "estado": "ok"
+ },
+ {
+  "id": "I2",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Carcasas para bomba (EOQ)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Q*",
+  "esperado": "200",
+  "obtenido": "200",
+  "estado": "ok"
+ },
+ {
+  "id": "I2",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Carcasas para bomba (EOQ)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "N",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "I2",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Carcasas para bomba (EOQ)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "T (días)",
+  "esperado": "50",
+  "obtenido": "50",
+  "estado": "ok"
+ },
+ {
+  "id": "I2",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Carcasas para bomba (EOQ)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Inventario promedio",
+  "esperado": "100",
+  "obtenido": "100",
+  "estado": "ok"
+ },
+ {
+  "id": "I2",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Carcasas para bomba (EOQ)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Costo total",
+  "esperado": "100",
+  "obtenido": "100",
+  "estado": "ok"
+ },
+ {
+  "id": "I3",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-1 Patterson Electronics (EOQ)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q*",
+  "esperado": "100",
+  "obtenido": "100",
+  "estado": "ok"
+ },
+ {
+  "id": "I3",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-1 Patterson Electronics (EOQ)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Órdenes por año",
+  "esperado": "2.5",
+  "obtenido": "2.5",
+  "estado": "ok"
+ },
+ {
+  "id": "I3",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-1 Patterson Electronics (EOQ)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Inventario promedio (el libro imprime 500 por errata: Q/2 = 100/2 = 50)",
+  "esperado": "50",
+  "obtenido": "50",
+  "estado": "ok"
+ },
+ {
+  "id": "I4",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-4 F.W. Harris: punto de reorden (d=25/día, L=20)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Punto de reorden",
+  "esperado": "500",
+  "obtenido": "500",
+  "estado": "ok"
+ },
+ {
+  "id": "I5",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Compañía de radio con faltantes planeados",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Q*",
+  "esperado": "115",
+  "obtenido": "115.47",
+  "estado": "ok"
+ },
+ {
+  "id": "I5",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Compañía de radio con faltantes planeados",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Faltantes planeados",
+  "esperado": "29",
+  "obtenido": "28.8675",
+  "estado": "ok"
+ },
+ {
+  "id": "I5",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Compañía de radio con faltantes planeados",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Inventario máximo",
+  "esperado": "86",
+  "obtenido": "86.6025",
+  "estado": "aprox"
+ },
+ {
+  "id": "I5",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Compañía de radio con faltantes planeados",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Tiempo de ciclo (días)",
+  "esperado": "14",
+  "obtenido": "14.4338",
+  "estado": "ok"
+ },
+ {
+  "id": "I5",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Compañía de radio con faltantes planeados",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Costo total",
+  "esperado": "867",
+  "obtenido": "866.025",
+  "estado": "aprox"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q* precio $5",
+  "esperado": "700",
+  "obtenido": "700",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q* precio $4.80",
+  "esperado": "714",
+  "obtenido": "714.435",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q* precio $4.75",
+  "esperado": "718",
+  "obtenido": "718.185",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q ajustada 2",
+  "esperado": "1000",
+  "obtenido": "1,000",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q ajustada 3",
+  "esperado": "2000",
+  "obtenido": "2,000",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "CT rango 1",
+  "esperado": "25700",
+  "obtenido": "25,700",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "CT rango 2",
+  "esperado": "24725",
+  "obtenido": "24,725",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "CT rango 3",
+  "esperado": "24822.50",
+  "obtenido": "24,822.5",
+  "estado": "ok"
+ },
+ {
+  "id": "I6",
+  "tema": "Inventarios",
+  "desc": "Ej. 7 Autos de juguete (Brass Department Store)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf / Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Cantidad elegida",
+  "esperado": "1000",
+  "obtenido": "1,000",
+  "estado": "ok"
+ },
+ {
+  "id": "I7",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-3 Distribuidores Dorsey (5% de descuento desde 300)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "EOQ sin descuento",
+  "esperado": "29.6",
+  "obtenido": "29.5804",
+  "estado": "ok"
+ },
+ {
+  "id": "I7",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-3 Distribuidores Dorsey (5% de descuento desde 300)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "EOQ con descuento",
+  "esperado": "30.3",
+  "obtenido": "30.3488",
+  "estado": "ok"
+ },
+ {
+  "id": "I7",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-3 Distribuidores Dorsey (5% de descuento desde 300)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "CT sin descuento",
+  "esperado": "562366",
+  "obtenido": "562,366",
+  "estado": "ok"
+ },
+ {
+  "id": "I7",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-3 Distribuidores Dorsey (5% de descuento desde 300)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "CT con descuento",
+  "esperado": "543517",
+  "obtenido": "543,517",
+  "estado": "ok"
+ },
+ {
+  "id": "I7",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-3 Distribuidores Dorsey (5% de descuento desde 300)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Cantidad elegida",
+  "esperado": "300",
+  "obtenido": "300",
+  "estado": "ok"
+ },
+ {
+  "id": "I8",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Jabón de tocador (POQ, capacidad 60,000/año)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Q*",
+  "esperado": "3387",
+  "obtenido": "3,386.83",
+  "estado": "ok"
+ },
+ {
+  "id": "I8",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Jabón de tocador (POQ, capacidad 60,000/año)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Punto de reorden",
+  "esperado": "520",
+  "obtenido": "520",
+  "estado": "ok"
+ },
+ {
+  "id": "I8",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Jabón de tocador (POQ, capacidad 60,000/año)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Tiempo de ciclo (días)",
+  "esperado": "33",
+  "obtenido": "32.5656",
+  "estado": "ok"
+ },
+ {
+  "id": "I9",
+  "tema": "Inventarios",
+  "desc": "Ej. 5 Brown Manufacturing (POQ, d=60, p=80)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Q*",
+  "esperado": "4000",
+  "obtenido": "4,000",
+  "estado": "ok"
+ },
+ {
+  "id": "I9",
+  "tema": "Inventarios",
+  "desc": "Ej. 5 Brown Manufacturing (POQ, d=60, p=80)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Duración de la producción (días)",
+  "esperado": "50",
+  "obtenido": "50",
+  "estado": "ok"
+ },
+ {
+  "id": "I9",
+  "tema": "Inventarios",
+  "desc": "Ej. 5 Brown Manufacturing (POQ, d=60, p=80)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 4 Inventarios determinísticos — academia.utp.ac.pa/sites/default/files/docente/541/l4_modelos_de_inventario_deterministico.pdf",
+  "dato": "Corridas por año",
+  "esperado": "2.5",
+  "obtenido": "2.5",
+  "estado": "ok"
+ },
+ {
+  "id": "I10",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-2 Flemming Accessories (POQ)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Q*",
+  "esperado": "1632",
+  "obtenido": "1,632.32",
+  "estado": "ok"
+ },
+ {
+  "id": "I11",
+  "tema": "Inventarios",
+  "desc": "Ej. 1 Hospital Regional: equipos código azul (5% de faltantes)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Inventario de seguridad (Z tabla = 1.65)",
+  "esperado": "16.5",
+  "obtenido": "16.4485",
+  "estado": "aprox"
+ },
+ {
+  "id": "I11",
+  "tema": "Inventarios",
+  "desc": "Ej. 1 Hospital Regional: equipos código azul (5% de faltantes)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Punto de reorden",
+  "esperado": "366.5",
+  "obtenido": "366.449",
+  "estado": "aprox"
+ },
+ {
+  "id": "I12",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-5 Thayer & Thaht (96% de servicio)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Inventario de seguridad (Z tabla = 1.75; el libro imprime 375 por errata, sus cuentas usan 350)",
+  "esperado": "350",
+  "obtenido": "350.137",
+  "estado": "ok"
+ },
+ {
+  "id": "I12",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-5 Thayer & Thaht (96% de servicio)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Punto de reorden",
+  "esperado": "1350",
+  "obtenido": "1,350.14",
+  "estado": "ok"
+ },
+ {
+  "id": "I12",
+  "tema": "Inventarios",
+  "desc": "Problema resuelto 6-5 Thayer & Thaht (96% de servicio)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo de mantener el inventario de seguridad (parte de los $11,400)",
+  "esperado": "1400",
+  "obtenido": "1,400.55",
+  "estado": "aprox"
+ },
+ {
+  "id": "I13",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Revisión periódica: nivel de reposición con 1% de agotamiento",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Nivel de reposición M (Z tabla = 2.33)",
+  "esperado": "355",
+  "obtenido": "354.686",
+  "estado": "ok"
+ },
+ {
+  "id": "I14",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Car Rental: autos grandes para el fin de semana",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Razón crítica",
+  "esperado": "0.7143",
+  "obtenido": "0.714286",
+  "estado": "ok"
+ },
+ {
+  "id": "I14",
+  "tema": "Inventarios",
+  "desc": "Ej. 3 Car Rental: autos grandes para el fin de semana",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Autos a tener (Z tabla = 0.57)",
+  "esperado": "158",
+  "obtenido": "157.923",
+  "estado": "ok"
+ },
+ {
+  "id": "I15a",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Lunes-Viernes)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Nivel de servicio",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "I15a",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Lunes-Viernes)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Galones (Z tabla = 0.68)",
+  "esperado": "467.56",
+  "obtenido": "467.191",
+  "estado": "aprox"
+ },
+ {
+  "id": "I15b",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Sábado)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Nivel de servicio",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "I15b",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Sábado)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Galones (Z tabla = 0.68)",
+  "esperado": "795.84",
+  "obtenido": "795.217",
+  "estado": "aprox"
+ },
+ {
+  "id": "I15c",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Domingo)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Nivel de servicio",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "I15c",
+  "tema": "Inventarios",
+  "desc": "Ej. 4 Limonada de Don (Domingo)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Galones (Z tabla = 0.68)",
+  "esperado": "585.80",
+  "obtenido": "585.332",
+  "estado": "aprox"
+ },
+ {
+  "id": "I16",
+  "tema": "Inventarios",
+  "desc": "Ej. 5 Zapatería con demanda uniforme 350–650",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Q (uniforme)",
+  "esperado": "550",
+  "obtenido": "550",
+  "estado": "ok"
+ },
+ {
+  "id": "I17",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Muffins (uniforme 30–50 y normal μ=40, σ=5)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Nivel de servicio",
+  "esperado": "0.75",
+  "obtenido": "0.75",
+  "estado": "ok"
+ },
+ {
+  "id": "I17",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Muffins (uniforme 30–50 y normal μ=40, σ=5)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Q uniforme",
+  "esperado": "45",
+  "obtenido": "45",
+  "estado": "ok"
+ },
+ {
+  "id": "I17",
+  "tema": "Inventarios",
+  "desc": "Ej. 6 Muffins (uniforme 30–50 y normal μ=40, σ=5)",
+  "fuente": "R. Caballero, UTP Panamá, Lectura 5 Inventarios probabilísticos — academia.utp.ac.pa/sites/default/files/docente/541/05_modelos_de_inventario_probabilistico.pdf",
+  "dato": "Q normal (Z tabla = 0.68)",
+  "esperado": "43.4",
+  "obtenido": "43.3724",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Distancia mínima",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Ruta",
+  "esperado": "O-C-F-G-T",
+  "obtenido": "O → C → F → G → T",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Distancia a A",
+  "esperado": "4",
+  "obtenido": "4",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a B",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a C",
+  "esperado": "6",
+  "obtenido": "6",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a D",
+  "esperado": "7",
+  "obtenido": "7",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a E",
+  "esperado": "9",
+  "obtenido": "9",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a F",
+  "esperado": "8",
+  "obtenido": "8",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a G",
+  "esperado": "10",
+  "obtenido": "10",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a H",
+  "esperado": "11",
+  "obtenido": "11",
+  "estado": "ok"
+ },
+ {
+  "id": "N1",
+  "tema": "Redes",
+  "desc": "Tema 1 #1: ruta más corta de O a T (11 nodos)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "a I",
+  "esperado": "14",
+  "obtenido": "14",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Distancia mínima",
+  "esperado": "32",
+  "obtenido": "32",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Ruta",
+  "esperado": "1-2-3-6-7",
+  "obtenido": "1 → 2 → 3 → 6 → 7",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Distancia a 2",
+  "esperado": "8",
+  "obtenido": "8",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "a 3",
+  "esperado": "14",
+  "obtenido": "14",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "a 4",
+  "esperado": "18",
+  "obtenido": "18",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "a 5",
+  "esperado": "22",
+  "obtenido": "22",
+  "estado": "ok"
+ },
+ {
+  "id": "N2",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 Leadville → Dillon",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "a 6",
+  "esperado": "26",
+  "obtenido": "26",
+  "estado": "ok"
+ },
+ {
+  "id": "N3",
+  "tema": "Redes",
+  "desc": "Tema 1 #3: líneas telefónicas en 5 subdivisiones",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Longitud mínima (km)",
+  "esperado": "15",
+  "obtenido": "15",
+  "estado": "ok"
+ },
+ {
+  "id": "N4",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-1 Granja de Roxie LaMothe",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Distancia total",
+  "esperado": "67",
+  "obtenido": "67",
+  "estado": "ok"
+ },
+ {
+  "id": "N4",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-1 Granja de Roxie LaMothe",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Arcos elegidos",
+  "esperado": "1-2, 1-3, 1-4, 4-7, 5-6, 6-7, 6-8",
+  "obtenido": "1-2, 1-3, 1-4, 4-7, 5-6, 6-7, 6-8",
+  "estado": "ok"
+ },
+ {
+  "id": "N5",
+  "tema": "Redes",
+  "desc": "Tema 1 #2: flujo máximo de AI a GT (Solver)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Flujo máximo",
+  "esperado": "9",
+  "obtenido": "9",
+  "estado": "ok"
+ },
+ {
+  "id": "N5",
+  "tema": "Redes",
+  "desc": "Tema 1 #2: flujo máximo de AI a GT (Solver)",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Verificación",
+  "esperado": "factible",
+  "obtenido": "✓ Flujo factible: el flujo máximo es 9",
+  "estado": "ok"
+ },
+ {
+  "id": "N6",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-2 PetroChem (Solver; capacidades por sentido según la figura 11.17)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Flujo máximo (miles de galones)",
+  "esperado": "10",
+  "obtenido": "10",
+  "estado": "ok"
+ },
+ {
+  "id": "N6",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-2 PetroChem (Solver; capacidades por sentido según la figura 11.17)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Verificación",
+  "esperado": "factible",
+  "obtenido": "✓ Flujo factible: el flujo máximo es 10",
+  "estado": "ok"
+ },
+ {
+  "id": "N7",
+  "tema": "Redes",
+  "desc": "Tema 1 #1 resuelto como PL con Solver",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Distancia mínima",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "N7",
+  "tema": "Redes",
+  "desc": "Tema 1 #1 resuelto como PL con Solver",
+  "fuente": "Presentaciones/problemas-resueltos-de-investigación-de-operaciones.pdf (tu carpeta)",
+  "dato": "Verificación",
+  "esperado": "factible",
+  "obtenido": "✓ Balance correcto. Arcos usados: los que tienen x = 1. Distancia = 17",
+  "estado": "ok"
+ },
+ {
+  "id": "N8",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 resuelto como PL con Solver",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Distancia mínima",
+  "esperado": "32",
+  "obtenido": "32",
+  "estado": "ok"
+ },
+ {
+  "id": "N8",
+  "tema": "Redes",
+  "desc": "Problema resuelto 11-3 resuelto como PL con Solver",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Verificación",
+  "esperado": "factible",
+  "obtenido": "✓ Balance correcto. Arcos usados: los que tienen x = 1. Distancia = 32",
+  "estado": "ok"
+ },
+ {
+  "id": "P1",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 1: auditoría (3 rutas críticas)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P1",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 1: auditoría (3 rutas críticas)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Actividades críticas (a-e-g, a-b-d-g, c-d-g)",
+  "esperado": "A, B, C, D, E, G",
+  "obtenido": "A, B, C, D, E, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P2",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 2: arranque de planta",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "14",
+  "obtenido": "14",
+  "estado": "ok"
+ },
+ {
+  "id": "P2",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 2: arranque de planta",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica b-g",
+  "esperado": "B, G",
+  "obtenido": "B, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P3",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 3: preparación de un curso",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "9",
+  "obtenido": "9",
+  "estado": "ok"
+ },
+ {
+  "id": "P3",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 3: preparación de un curso",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica b-d-g",
+  "esperado": "B, D, G",
+  "obtenido": "B, D, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P4",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 4: proyecto en semanas, holgura de B",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "23",
+  "obtenido": "23",
+  "estado": "ok"
+ },
+ {
+  "id": "P4",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 4: proyecto en semanas, holgura de B",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica A-C-D-E-G",
+  "esperado": "A, C, D, E, G",
+  "obtenido": "A, C, D, E, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P4",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 4: proyecto en semanas, holgura de B",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura de B",
+  "esperado": "6",
+  "obtenido": "6",
+  "estado": "ok"
+ },
+ {
+  "id": "P5",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 5: sistema de comunicación (dos rutas críticas)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Rutas críticas A-C-F-G-I y A-D-F-G-I",
+  "esperado": "A, C, D, F, G, I",
+  "obtenido": "A, C, D, F, G, I",
+  "estado": "ok"
+ },
+ {
+  "id": "P5b",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 5c-d: acortar C, D y G una semana",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Nueva duración",
+  "esperado": "16",
+  "obtenido": "16",
+  "estado": "ok"
+ },
+ {
+  "id": "P5b",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 5c-d: acortar C, D y G una semana",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Rutas críticas A-C-F-G-I y A-D-F-G-I",
+  "esperado": "A, C, D, F, G, I",
+  "obtenido": "A, C, D, F, G, I",
+  "estado": "ok"
+ },
+ {
+  "id": "P6",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 6: Duplaga Corporation",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "34",
+  "obtenido": "34",
+  "estado": "ok"
+ },
+ {
+  "id": "P6",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 6: Duplaga Corporation",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica A-B-E-G-I",
+  "esperado": "A, B, E, G, I",
+  "obtenido": "A, B, E, G, I",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración",
+  "esperado": "21",
+  "obtenido": "21",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica B-E-G",
+  "esperado": "B, E, G",
+  "obtenido": "B, E, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura A",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura C",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura D",
+  "esperado": "6",
+  "obtenido": "6",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura F",
+  "esperado": "1",
+  "obtenido": "1",
+  "estado": "ok"
+ },
+ {
+  "id": "P7",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 7: Charlie Cook Corp. (holguras)",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Holgura H",
+  "esperado": "1",
+  "obtenido": "1",
+  "estado": "ok"
+ },
+ {
+  "id": "P8",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 8: proyecto PERT de 25 actividades",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Duración esperada (20.(3))",
+  "esperado": "20.3333",
+  "obtenido": "20.3333",
+  "estado": "ok"
+ },
+ {
+  "id": "P8",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 8: proyecto PERT de 25 actividades",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Varianza del proyecto (4.(3))",
+  "esperado": "4.3333",
+  "obtenido": "4.33333",
+  "estado": "ok"
+ },
+ {
+  "id": "P8",
+  "tema": "PERT/CPM",
+  "desc": "Ejercicio 8: proyecto PERT de 25 actividades",
+  "fuente": "Plan de Mejora, Ruta crítica: ejercicios resueltos PERT/CPM — ejloorc.github.io/Portafolio-An-lisisyE-Loor.E/RUTA_CRITICA.pdf",
+  "dato": "Ruta crítica O-P-S-T-W-Y",
+  "esperado": "O, P, S, T, W, Y",
+  "obtenido": "O, P, S, T, W, Y",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Duración esperada",
+  "esperado": "19",
+  "obtenido": "19",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Varianza ruta crítica",
+  "esperado": "1.333",
+  "obtenido": "1.33333",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Desviación estándar",
+  "esperado": "1.155",
+  "obtenido": "1.1547",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Ruta crítica B-D-E-G",
+  "esperado": "B, D, E, G",
+  "obtenido": "B, D, E, G",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A t",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A IC",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A TC",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A IL",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A TL",
+  "esperado": "7",
+  "obtenido": "7",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "A Holgura",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B t",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B IC",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B TC",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B IL",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B TL",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "B Holgura",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C t",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C IC",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C TC",
+  "esperado": "7",
+  "obtenido": "7",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C IL",
+  "esperado": "7",
+  "obtenido": "7",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C TL",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "C Holgura",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D t",
+  "esperado": "9",
+  "obtenido": "9",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D IC",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D TC",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D IL",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D TL",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "D Holgura",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E t",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E IC",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E TC",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E IL",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E TL",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "E Holgura",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F t",
+  "esperado": "5",
+  "obtenido": "5",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F IC",
+  "esperado": "3",
+  "obtenido": "3",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F TC",
+  "esperado": "8",
+  "obtenido": "8",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F IL",
+  "esperado": "14",
+  "obtenido": "14",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F TL",
+  "esperado": "19",
+  "obtenido": "19",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "F Holgura",
+  "esperado": "11",
+  "obtenido": "11",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G t",
+  "esperado": "2",
+  "obtenido": "2",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G IC",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G TC",
+  "esperado": "19",
+  "obtenido": "19",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G IL",
+  "esperado": "17",
+  "obtenido": "17",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G TL",
+  "esperado": "19",
+  "obtenido": "19",
+  "estado": "ok"
+ },
+ {
+  "id": "P9",
+  "tema": "PERT/CPM",
+  "desc": "Problemas resueltos 12-1 y 12-2 Ensamble del ala (Scott DeWitte)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "G Holgura",
+  "esperado": "0",
+  "obtenido": "0",
+  "estado": "ok"
+ },
+ {
+  "id": "P10",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: probabilidad de terminar en 16 semanas",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Duración esperada",
+  "esperado": "15",
+  "obtenido": "15",
+  "estado": "ok"
+ },
+ {
+  "id": "P10",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: probabilidad de terminar en 16 semanas",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Varianza del proyecto",
+  "esperado": "3.111",
+  "obtenido": "3.11111",
+  "estado": "ok"
+ },
+ {
+  "id": "P10",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: probabilidad de terminar en 16 semanas",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Desviación estándar",
+  "esperado": "1.76",
+  "obtenido": "1.76383",
+  "estado": "ok"
+ },
+ {
+  "id": "P10",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: probabilidad de terminar en 16 semanas",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Z",
+  "esperado": "0.57",
+  "obtenido": "0.566947",
+  "estado": "ok"
+ },
+ {
+  "id": "P10",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: probabilidad de terminar en 16 semanas",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "P(T ≤ 16) (tabla con Z = 0.57)",
+  "esperado": "0.71566",
+  "obtenido": "0.714625",
+  "estado": "aprox"
+ },
+ {
+  "id": "P11",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 14 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo de aceleración",
+  "esperado": "1000",
+  "obtenido": "1,000",
+  "estado": "ok"
+ },
+ {
+  "id": "P11",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 14 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo por semana de B",
+  "esperado": "2000",
+  "obtenido": "2,000",
+  "estado": "ok"
+ },
+ {
+  "id": "P11",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 14 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Duración lograda",
+  "esperado": "14",
+  "obtenido": "14",
+  "estado": "ok"
+ },
+ {
+  "id": "P12",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 12 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Costo de aceleración",
+  "esperado": "5000",
+  "obtenido": "5,000",
+  "estado": "ok"
+ },
+ {
+  "id": "P12",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 12 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Duración lograda",
+  "esperado": "12",
+  "obtenido": "12",
+  "estado": "ok"
+ },
+ {
+  "id": "P12",
+  "tema": "PERT/CPM",
+  "desc": "General Foundry: acelerar a 12 semanas (Solver)",
+  "fuente": "Render, Stair & Hanna, Métodos cuantitativos para los negocios (libros/ de tu carpeta)",
+  "dato": "Factible",
+  "esperado": "factible",
+  "obtenido": "✓ Factible",
+  "estado": "ok"
+ }
+]
